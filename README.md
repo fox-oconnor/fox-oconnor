@@ -1,8 +1,8 @@
-- Greetings, I’m Fox O'Connor, an autistic programmer with a passion for technology. 
+- Greetings, I’m Jurian O'Connor, also known as KitsuJuri. I am an AuDHD programmer with a passion for technology and a penchant for the odd. 
 - 
-- 🌱 I’m currently learning Data Science and Software Engineering.
-- 💞️ I’m looking to collaborate on projects written in Python.
-- 📫 How to reach me: fox.oconnor@proton.me
+- 🌱 I’m currently learning Data Science and Software Engineering. (Always learning, because there are so many languages and so little time.) 
+- 💞️ I’m looking to collaborate on anything strange, obscure or totally weird.
+- 📫 How to reach me: kitsujuri@proton.me
 
 <!---
 fox-oconnor/fox-oconnor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
